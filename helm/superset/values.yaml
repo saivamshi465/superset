@@ -163,7 +163,7 @@ extraConfigMountPath: "/app/configs"
 
 image:
   repository: apache/superset
-  tag: latest-dev
+  tag: latest
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
